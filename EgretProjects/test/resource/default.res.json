@@ -1,0 +1,33 @@
+{
+	"groups":[{
+			"keys":"bgImage,egretIcon,catPic,bg",
+			"name":"preload"
+		}],
+	"resources":[
+		{
+			"name":"bgImage",
+			"type":"image",
+			"url":"assets/bg.jpg"
+		},
+		{
+			"name":"egretIcon",
+			"type":"image",
+			"url":"assets/egret_icon.png"
+		},
+		{
+			"name":"description",
+			"type":"json",
+			"url":"config/description.json"
+		},
+		{
+			"name":"catPic",
+			"type":"image",
+			"url":"assets/1084389.jpg"
+		},
+		{
+			"name":"bg",
+			"type":"image",
+			"url":"assets/123.png"
+		}
+	]
+}
